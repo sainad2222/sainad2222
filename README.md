@@ -57,4 +57,14 @@
 [codechef]: https://www.codechef.com/users/sainad
 [codeforces]: https://codeforces.com/profile/sainad
 
-[![Sainath's github stats](https://github-readme-stats.vercel.app/api?username=sainad2222&&count_private=true&&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="inline block" src="https://github-readme-stats.vercel.app/api?username=sainad2222&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainad2222&layout=compact&height=195&width=495" />
+</a>
+
+
