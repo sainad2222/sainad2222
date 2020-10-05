@@ -36,7 +36,7 @@
 
 ### Other tools and preferences
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src='https://img.shields.io/badge/-ubuntu-green'> <img src="https://img.shields.io/badge/%20%20%20%20%20-docker-blue"> <img src="https://img.shields.io/badge/-VIM-red">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src='https://img.shields.io/badge/-ubuntu-green'> <img src="https://badgen.net/badge/icon/docker?icon=docker&label"> <img src="https://img.shields.io/badge/-VIM-red">
 
 
 </br>
