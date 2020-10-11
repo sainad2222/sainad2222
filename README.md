@@ -53,7 +53,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/sainath-singineedi-38a697179/
+[linkedin]: https://www.linkedin.com/in/sainathsingineedi/
 [codechef]: https://www.codechef.com/users/sainad
 [codeforces]: https://codeforces.com/profile/sainad
 
