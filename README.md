@@ -13,13 +13,6 @@
 </br>
 
 
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/sainad2222?label=Follow" style=" float:left, margin-right:10px" />
-
-</br>
-
-
 ### Programming Languages
 <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
