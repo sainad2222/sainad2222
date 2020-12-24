@@ -9,7 +9,12 @@
 
 - <img src='https://img.shields.io/badge/-Django-black?style=plastic&logo=django&logoColor=blue'> developer
 
-- Competitive coder 🐱‍💻
+- Part time competitive coder 🐱‍💻
+
+[![Badge](https://cp-logo.vercel.app/codechef/sainad)](https://www.codechef.com/users/gennady.korotkevich)
+<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/codeforces/sainad.svg"></a>
+<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/atcoder/sainad.svg"></a>
+
 </br>
 
 
@@ -38,8 +43,7 @@
 
 ### Find me here 🌍
 [<img align="left" alt="sainad2222 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sainad2222 | codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="sainad2222 | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+[<img align="left" alt="sainad2222 | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 </br>
 </br>
 
@@ -47,8 +51,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/sainathsingineedi/
-[codechef]: https://www.codechef.com/users/sainad
-[codeforces]: https://codeforces.com/profile/sainad
+[gmail]: mailto:sainathsingineedi2222@gmail.com
 
 ### Stats
 
