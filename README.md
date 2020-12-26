@@ -11,9 +11,13 @@
 
 - Part time competitive coder 🐱‍💻
 
-[![Badge](https://cp-logo.vercel.app/codechef/sainad)](https://www.codechef.com/users/gennady.korotkevich)
-<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/codeforces/sainad.svg"></a>
-<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/atcoder/sainad.svg"></a>
+Highest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Live
+
+[<img src="https://img.shields.io/badge/Codechef-1825-blue"/>](https://www.codechef.com/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Badge](https://cp-logo.vercel.app/codechef/sainad)](https://www.codechef.com/users/sainad)
+
+[<img src="https://img.shields.io/badge/Codeforces-1364-%23378700"/>](https://codeforces.com/profile/sainad)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/sainad"><img src="https://run.kaist.ac.kr/badges/codeforces/sainad.svg"></a>
+
+[<img src="https://img.shields.io/badge/Atcoder-762-%237f450c"/>](https://atcoder.jp/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/atcoder/sainad.svg"></a>
 
 </br>
 
