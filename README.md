@@ -11,7 +11,7 @@
 
 - Part time competitive coder 🐱‍💻
 
-Highest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Live
+**Highest** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Live**
 
 [<img src="https://img.shields.io/badge/Codechef-1825-blue"/>](https://www.codechef.com/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Badge](https://cp-logo.vercel.app/codechef/sainad)](https://www.codechef.com/users/sainad)
 
