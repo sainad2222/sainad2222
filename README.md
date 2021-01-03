@@ -38,8 +38,9 @@
 
 ### Other tools and preferences
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src='https://img.shields.io/badge/-Ubuntu-%23c64423?style=flat&logo=ubuntu&logoColor=yellow'> <img src="https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=blue"> <img src="https://img.shields.io/badge/-Vim-%230f80c0?style=flat&logo=vim&logoColor=black">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src='https://img.shields.io/badge/-Ubuntu-%23c64423?style=flat&logo=ubuntu&logoColor=yellow'> <img src="https://img.shields.io/badge/-Vim-%230f80c0?style=flat&logo=vim&logoColor=black">
 
+[comment]: <> (<img src="https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=blue">)
 
 </br>
 
