@@ -15,9 +15,9 @@
 
 [<img src="https://img.shields.io/badge/Codechef-1825-blue"/>](https://www.codechef.com/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![oh oh broken! refresh](https://cp-logo.vercel.app/codechef/sainad)](https://www.codechef.com/users/sainad)
 
-[<img src="https://img.shields.io/badge/Codeforces-1364-%23378700"/>](https://codeforces.com/profile/sainad)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/sainad"><img src="https://run.kaist.ac.kr/badges/codeforces/sainad.svg"></a>
+[<img src="https://img.shields.io/badge/Codeforces-1364-%23378700"/>](https://codeforces.com/profile/sainad)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/sainad"><img src="https://run.kaist.ac.kr/badges/codeforces/sainad.svg" alt="oh oh broken!refresh"></a>
 
-[<img src="https://img.shields.io/badge/Atcoder-762-%237f450c"/>](https://atcoder.jp/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/atcoder/sainad.svg"></a>
+[<img src="https://img.shields.io/badge/Atcoder-762-%237f450c"/>](https://atcoder.jp/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/atcoder/sainad.svg" alt="oh oh broken!refresh"></a>
 
 </br>
 
