@@ -2,7 +2,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-#### Welcome to my profile <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Circle-icons-profile.svg/1200px-Circle-icons-profile.svg.png" width="24" height="24" />
+#### Welcome to my profile 🙎️
 
 - Third year ECE Undergraduate at NIT Durgapur 📚
 
