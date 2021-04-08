@@ -14,12 +14,11 @@
 
 **Highest** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Live**
 
-[<img src="https://img.shields.io/badge/Codechef-1825-blue"/>](https://www.codechef.com/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![oh oh broken! refresh](https://cp-logo.vercel.app/codechef/sainad)](https://www.codechef.com/users/sainad)
+[<img src="https://img.shields.io/badge/Codechef-1825-blue?style=flat&logo=codechef"/>](https://www.codechef.com/users/sainad)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/dynamic/json?&color=blue&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/sainad&query=%24.rating&cacheSeconds=86400"/>](https://www.codechef.com/users/sainad)
 
-[<img src="https://img.shields.io/badge/Codeforces-1364-%23378700"/>](https://codeforces.com/profile/sainad)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/sainad"><img src="https://run.kaist.ac.kr/badges/codeforces/sainad.svg" alt="oh oh broken!refresh"></a>
+[<img src="https://img.shields.io/badge/Codeforces-1364-red?style=flat&logo=codeforces"/>](https://codeforces.com/profile/sainad)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/dynamic/json?&color=red&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/sainad&query=%24.rating&cacheSeconds=86400"/>](https://codeforces.com/profile/sainad)
 
-[<img src="https://img.shields.io/badge/Atcoder-762-%237f450c"/>](https://atcoder.jp/users/sainad)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://atcoder.jp/users/sainad"><img src="https://run.kaist.ac.kr/badges/atcoder/sainad.svg" alt="oh oh broken!refresh"></a>
-
+[<img src="https://img.shields.io/badge/Atcoder-762-yellow?style=flat&logo=atcoder"/>](https://atcoder.jp/users/sainad)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Atcoder-721-yellow?style=flat&logo=atcoder"/>](https://atcoder.jp/users/sainad)
 </br>
 
 
@@ -39,7 +38,7 @@
 
 ### Other tools and preferences
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src='https://img.shields.io/badge/-Ubuntu-%23c64423?style=flat&logo=ubuntu&logoColor=yellow'> <img src="https://img.shields.io/badge/-NeoVim-black?style=plastic&logo=neovim&logoColor=blue">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src='https://img.shields.io/badge/-Ubuntu-%23c64423?style=flat&logo=ubuntu&logoColor=yellow'> <img src='https://img.shields.io/badge/-ArchLinux-green?style=flat&logo=Arch-Linux&logoColor=blue'> <img src="https://img.shields.io/badge/-NeoVim-black?style=plastic&logo=neovim&logoColor=blue">
 
 [comment]: <> (<img src="https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=blue">)
 
