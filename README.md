@@ -18,8 +18,8 @@
 
 [<img src="https://img.shields.io/badge/Codeforces-1364-red?style=flat&logo=codeforces"/>](https://codeforces.com/profile/sainad)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/dynamic/json?&color=red&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/sainad&query=%24.rating&cacheSeconds=86400"/>](https://codeforces.com/profile/sainad)
 
-[<img src="https://img.shields.io/badge/Atcoder-762-yellow?style=flat&logo=atcoder"/>](https://atcoder.jp/users/sainad)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Atcoder-721-yellow?style=flat&logo=atcoder"/>](https://atcoder.jp/users/sainad)
-</br>
+[<img src="https://img.shields.io/badge/Atcoder-762-yellow?style=flat"/>](https://atcoder.jp/users/sainad)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/dynamic/json?&color=yellow&logo=atcoder&label=Atcoder&url=https://competitive-coding-api.herokuapp.com/api/atcoder/sainad&query=%24.rating&cacheSeconds=86400"/>](https://atcoder.jp/users/sainad)
+
 
 
 ### Programming Languages
