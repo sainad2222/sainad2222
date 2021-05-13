@@ -6,7 +6,7 @@
 
 - Third year ECE Undergraduate at NIT Durgapur 📚
 
-- Full stack developer 🕸️
+- Backend developer 🕸️
 
 - Part time competitive coder 🐱‍💻
 
