@@ -4,7 +4,7 @@
 
 #### Welcome to my profile 🙎️
 
-- Third year ECE Undergraduate at NIT Durgapur 📚
+- Final year Undergraduate at NIT Durgapur 📚
 
 - Backend developer 🕸️
 
