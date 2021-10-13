@@ -63,11 +63,18 @@
 [comment]: <> (credits to: https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/sainad2222">
-  <img align="center" style="inline block" src="https://github-readme-stats.vercel.app/api?username=sainad2222&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" style="inline block" src="https://github-readme-stats.vercel.app/api?username=sainad2222&count_private=true&show_icons=true&theme=tokyonight" width=500/>
 </a>
+
+</br>
+</br>
 
 <a href="https://github.com/sainad2222">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainad2222&layout=compact&height=195&width=495" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainad2222&layout=compact&height=195&width=700" width=500/>
 </a>
 
+</br>
 
+### This is what happens if python has 90+% contribution 🐍
+
+![gif](https://github.com/sainad2222/sainad2222/blob/output/github-contribution-grid-snake.gif)
