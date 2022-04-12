@@ -75,6 +75,6 @@
 
 </br>
 
-### This is what happens if python has 90+% contribution 🐍
+### 🐍
 
 ![gif](https://github.com/sainad2222/sainad2222/blob/output/github-contribution-grid-snake.gif)
