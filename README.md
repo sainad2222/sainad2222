@@ -4,12 +4,6 @@
 
 #### Welcome to my profile 🙎️
 
-- Final year Undergraduate at NIT Durgapur 📚
-
-- Backend developer 🕸️
-
-- Part time competitive coder 🐱‍💻
-
 ![](https://komarev.com/ghpvc/?username=sainad2222)
 
 **Highest** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Live**
